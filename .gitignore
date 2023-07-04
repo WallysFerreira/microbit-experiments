@@ -53,4 +53,5 @@ dkms.conf
 
 MICROBIT.*
 build/
+utils/
 
